@@ -18,4 +18,9 @@ td {
     text-align: center;
     border: 1px solid black;
 }
-.floatRight{float:center;margin-left:20px}
+.heads {color: navy;}
+
+.links {
+    font-style: italic;
+    color: white;
+}
